@@ -11,6 +11,7 @@ require "./actions/**"
 require "./components/**"
 require "./pages/**"
 require "./handlers/**"
+require "./serializers/**"
 require "../config/env"
 require "../config/**"
 
